@@ -1,5 +1,8 @@
 == README
 
+This is a demo project, creating a pretend internally facing customer service app called "shine." 
+I am working from the book "Rails, Angular, Postgres, Bootstrap" by David Bryant Copeland. 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
