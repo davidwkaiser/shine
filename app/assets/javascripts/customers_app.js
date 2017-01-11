@@ -20,7 +20,7 @@ app.controller("CustomerSearchController", [
         ).then(function(response) {
           $scope.customers = response.data;
         },function(response) {
-          alert("There was a problem:" + response.status);
+          alert("There was a problem: " + response.status);
         }
       );
     }
