@@ -1,7 +1,7 @@
 describe("CustomerSearchController", function(){
   describe("Initialization", function(){
 
-    var   scope       = null;
+    var   scope       = null,
           controller  = null;
 
     beforeEach(module("customers"));
