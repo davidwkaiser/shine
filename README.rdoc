@@ -7,8 +7,8 @@ I am a graduate of Dev Bootcamp, I'm looking for my first dev job. I know Ruby /
 
 I'm a leader, I'm responsible, and I'm low drama.
 
-See my portfolio at davidwkaiser.squarespace.com  
+See my portfolio at http://davidwkaiser.squarespace.com  
 
-See my LinkedIn at linkedin.com/in/davidwkaiser  
+See my LinkedIn at http://linkedin.com/in/davidwkaiser  
 
 And, well, you've already found my GitHub… 
